@@ -1,0 +1,4 @@
+The problem is in YelpMap.js (line 60). The Yelp API no longer returns the lat/long of matched
+businesses, and the Google Map API needs these to set markers at appropriate points
+on the map. Yelp only returns (often only partially filled in addresses). So I would need to utilize a 3rd party geocoding service to parse address information.
+
