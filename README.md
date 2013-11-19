@@ -8,4 +8,4 @@ on the map. Yelp only returns (often only partially filled in addresses). So a 3
 taco-map-with-yelp-google-map-api
 =================================
 
-A taco map using the Yelp API and Google Map API
+A taco map using the Yelp API and Google Map API. This code is based on the [API-Access-Help tutorial](http://gis.yohman.com/up206b/tutorials/api-access-yelp/) by Yoh Kawano (UCLA)
